@@ -1,5 +1,4 @@
----
-manufacturer: 
+oppoa53 facturer: 
     - oppo
 
 ---
